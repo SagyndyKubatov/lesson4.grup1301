@@ -6,8 +6,6 @@ public class Main {
     private static int bossHealth = 700;
     private static int bossDamage = 50;
     private static String bossAttackType = "";
-    private static int sumHeroesDamage = 0;
-    private static int hpBoss;
     private static int[] heroesHealth = {200,230,200,300,280};
     private static int[] heroDamage = {50,30,30,10,0};
     private static String[] heroesAttackType = {"Волшебник","Войн", "Лучник","Голем","Целитель"};
